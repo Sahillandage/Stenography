@@ -24,7 +24,7 @@ Installation
 
 1. Clone the repository:
 
-https://github.com/satyam2003-cpu/myproject.git
+https://github.com/Sahillandage/Stenography.git
 
 
 2. Install the required packages:
@@ -43,7 +43,7 @@ Place the image (e.g., mypic.jpg) in the script's directory.
 
 2. Run the Script:
 
-https://github.com/satyam2003-cpu/myproject/blob/main/stego.py
+https://github.com/Sahillandage/Stenography.git
 
 
 3. Follow the Prompts:
